@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09a84d3f-1c0a-4ca4-8024-cec80106dee5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/META-INF/temaPOO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/VMS/VMS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/VMS/VMS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/campaign/ArrayMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/campaign/ArrayMap$ArrayMapEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/campaign/ArrayMap$ArrayMapEntry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/campaign/ArrayMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/campaign/ArrayMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/campaign/Campaign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/campaign/Campaign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/campaign/CampaignStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/campaign/CampaignStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/campaign/CampaignVoucherMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/campaign/CampaignVoucherMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/notification/Notification.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/notification/Notification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/notification/NotificationType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/notification/NotificationType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/users/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/users/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/users/UserType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/users/UserType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/users/UserVoucherMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/users/UserVoucherMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/voucher/GiftVoucher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/voucher/GiftVoucher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/voucher/LoyaltyVoucher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/voucher/LoyaltyVoucher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/voucher/Voucher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/voucher/Voucher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/voucher/VoucherFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/voucher/VoucherFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/voucher/VoucherFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/voucher/VoucherFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/voucher/VoucherStatusType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/voucher/VoucherStatusType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/temaPOO/voucher/VoucherType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/temaPOO/voucher/VoucherType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VMS/VMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VMS/VMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/campaign/ArrayMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/campaign/ArrayMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/campaign/Campaign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/campaign/Campaign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/campaign/CampaignVoucherMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/campaign/CampaignVoucherMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notification/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/notification/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/voucher/Voucher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/voucher/Voucher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temaPOO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/temaPOO.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WCg5IPaXARkfzJ5QLgu2UIRFER" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PA/lab2/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="temaPOO" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="temaPOO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09a84d3f-1c0a-4ca4-8024-cec80106dee5" name="Default Changelist" comment="" />
+      <created>1578658805964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578658805964</updated>
+      <workItem from="1578658810855" duration="445000" />
+      <workItem from="1578828420670" duration="208000" />
+      <workItem from="1579010548239" duration="2738000" />
+      <workItem from="1579034043851" duration="4300000" />
+      <workItem from="1583160825023" duration="580000" />
+      <workItem from="1583161475661" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578828616960">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="453" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1578828616960" />
+    <state x="727" y="339" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578828615925">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="727" y="339" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1578828615925" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583160878183">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1583160878183" />
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1579029352047">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1579029352047" />
+    <state width="1804" height="275" key="GridCell.Tab.0.center" timestamp="1579029352047">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1579029352047" />
+    <state width="1804" height="275" key="GridCell.Tab.0.left" timestamp="1579029352047">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1579029352047" />
+    <state width="1804" height="275" key="GridCell.Tab.0.right" timestamp="1579029352047">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1579029352047" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1579010570791">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1579010570791" />
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583161476201">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1583161476201" />
+  </component>
+</project>
